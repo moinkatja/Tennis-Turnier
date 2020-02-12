@@ -339,6 +339,13 @@ p {
         -ms-grid-row: 2;
         -ms-grid-column: 2; 
     }
+    .fakt {
+        font-size: 18px;
+        width:300px;
+    }
+    .form-inner input {
+        width: 70%;
+    }
 }
 
 @media (max-width: 740px) {
@@ -361,12 +368,6 @@ p {
     .spieler > *:nth-child(3) {
         -ms-grid-row: 3;
         -ms-grid-column: 1;
-    }
-	
-   .fakt {
-	width: 250px;
-        font-size: 17px;
-        width: 400px;
     }
 }
 
