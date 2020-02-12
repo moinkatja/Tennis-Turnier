@@ -176,7 +176,7 @@ header {
 }
 
 .fakt {
-    position: absolute;
+    position: relative;
     font-size: 25px;
     width: 500px;
     background-color: rgba(189, 192, 22, 0.85);
