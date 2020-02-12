@@ -341,7 +341,7 @@ p {
     }
     .fakt {
         font-size: 18px;
-        width:280px;
+        width:480px;
     }
     .form-inner input {
         width: 90%;
@@ -368,6 +368,12 @@ p {
     .spieler > *:nth-child(3) {
         -ms-grid-row: 3;
         -ms-grid-column: 1;
+    }
+    .fakt {  
+        font-size: 18px;
+        width:100%;
+        margin-top: 60px 0 0 0;
+
     }
 }
 
