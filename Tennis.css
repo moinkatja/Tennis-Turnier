@@ -412,15 +412,15 @@ p {
 }
 
 .spielplan li:nth-child(odd) {
-    background: rgba(238, 241, 25, 0.7);
+    background:  rgba(255, 252, 100, 0.9);
     font-weight: bold;
-    color: rgb(197, 48, 48);
+    color:  rgb(197, 48, 48);
 }
 
 .spielplan li:nth-child(even) {
-    background:rgba(175, 175, 175,0.9); 
+    background:rgba(148, 147, 147, 0.96); 
     font-size: 22px;
-    }
+}
 
 dt {
     font-weight: bold;
