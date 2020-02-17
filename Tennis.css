@@ -480,7 +480,7 @@ dt {
 }
 .form-inner input {
     display: block;
-    width: 50%;
+    width: 70vw;
     padding: 0 15px;
     margin: 0 auto 30px;;
     border-width: 0;
