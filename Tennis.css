@@ -179,7 +179,7 @@ header {
     position: relative;
     font-size: 25px;
     width: 500px;
-    background-color: rgba(189, 192, 22, 0.85);
+    background-color: rgba(207, 55, 8, 0.85);
     border-radius: 20px;
     padding: 20px;
     margin: 20px;
@@ -189,8 +189,7 @@ header {
 }
 
 .fakt h1 {
-  
-    color: rgb(197, 48, 48);
+    color: #f7ed62;
 }
 
 
